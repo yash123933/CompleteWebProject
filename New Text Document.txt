@@ -1,0 +1,60 @@
+Spring MVC will be acting as the front controller.
+Request will be dispatch in our own controller.
+We can define the prefix of the URL: Prefix=	And 	Suffix=
+Themes can also be design.
+For app-ctx the spring provide context loader listener 
+
+UserController->Feedcontroler->serviceLayer->Repository
+
+What is dependency injection?
+what is bean autowiring?
+which implementation of application context gives us control to shutdown container?
+select correct code snippet for injecting values for setter or constructor injection?
+which of the following annotation are used in life cycle spring framework
+in spring application spring context are by default what?
+what is diapatcher servlet
+what is the role context loader listner
+code snippet for view resolver in spring MVC?
+Does hibernate support dependency injection?
+code snippet for instantiating session 
+what is deafult loaction for hibernate cfg- class path.
+jsp life cycle method?
+which of the following directive are used for import in jsp?
+implicit objects in jsp? 9 objects
+difference between getParameter and getAttribute?
+directive in servlet jsp?
+which of the following container service allows for lookuo services?
+what is the annotation for composite keys?
+fetch stratagies in hibernate? 
+which strategy fire only single query to grab parent and child record?
+which xml attribute is responsible to save update delete on parent child graph in database-> cascade
+which of the foll default mode of loading child elements in hibernate?
+Code snippet on hibernate cfg file?
+dialect role in hibernate cfg?
+correct code snippet for mapping file in hbm.
+what time servlet init method is called?
+all the possible to redirect from on page to another page in jsp.
+Initialisation parameter 
+different scope in servlet and jsp?
+spring configuration can be return in? multiple choice question
+which of the following is not the stereo type of the component?
+which method transaction method aware?
+Lazy Loading, Eager Loading
+which of the following is directive entry for error page in jsp.
+A servlet is child of ---------?
+which of the foll is correct annotaion for servlet?
+which http method ends session.
+Idetify the hql query?
+correct annotation for request mapping?
+what does auto wired annotation does?
+madatory anntation for making hibernate entity.
+correct syntax for importing external javascript.
+where and funtion in javascript are........?
+which loop manages cursor implicitly?
+which parameter type acts as a constant?
+nested group funtion?
+which statement helps invoking database stored procedure in jdbc?
+join query. identifying the join
+code snippet on cursor printing row count before fetch and after fetch?
+which one is synchronized collection?
+what can be done for sorting custom objects in tree set?
